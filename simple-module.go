@@ -1,5 +1,5 @@
 // simple-module project simple-module.go
-package simple-module
+package simple.module
 
 
 import "fmt"

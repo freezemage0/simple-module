@@ -3,4 +3,4 @@
 /*
 simple-module document
 */
-package simple-module
+package simple.module
